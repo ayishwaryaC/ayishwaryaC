@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Ayishwarya.C
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BE43C4E5&width=435&lines=Hi+there%F0%9F%91%8B%F0%9F%8F%BB;I'm+Ayishwarya.C)](https://git.io/typing-svg)
 
 Full stack web Developer
 
