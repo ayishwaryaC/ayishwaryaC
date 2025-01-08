@@ -22,4 +22,5 @@ Full stack web Developer
 
 Let’s collaborate or chat!
  <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ayishwaryac/)   [<img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="gmail-new"/>](ayishwaryac@gmail.com)
+ 
 
