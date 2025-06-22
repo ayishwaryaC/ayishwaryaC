@@ -21,6 +21,16 @@ Full stack web Developer
 - GeeksForGeeks : [ayishwaryac](https://www.geeksforgeeks.org/user/ayishwaryac/)
 - HackerRank : [ayishwaryac](https://www.hackerrank.com/profile/ayishwaryac)
 
+
+## My LeetCode Badges
+<span>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="100 Days Badge" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt=" SQL-50" width="50" height="50" style="margin-right: 10px;" />
+</span>
+
+
+
 <br />[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayishwaryaC&bg_color=d59acd&color=000000&line=5d2f6a&point=1a1919&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 📩**Let’s Connect!**
