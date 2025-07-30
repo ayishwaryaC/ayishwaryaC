@@ -24,9 +24,10 @@ Full stack web Developer
 
 ## My LeetCode Badges
 <span>
+  <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt=" SQL-50" width="50" height="50" style="margin-right: 10px;" />
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge" width="50" height="50" style="margin-right: 10px;" />
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="100 Days Badge" width="50" height="50" style="margin-right: 10px;" />
-  <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt=" SQL-50" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://assets.leetcode.com/static_assets/others/200.gif" alt=" 200 Days Badge" width="50" height="50" style="margin-right: 10px;" />
 </span>
 
 
