@@ -18,7 +18,7 @@ Full stack web Developer
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/> <img src="https://cdn-icons-png.flaticon.com/128/15466/15466168.png" alt="GitHub" width="50" height="50" "/> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/> </p>
 
 
-## 💻 Coding Profiles
+💻 Coding Profiles
 - LeetCode : [ayishwarya07](https://leetcode.com/u/ayishwarya07/)
 - GeeksForGeeks : [ayishwaryac](https://www.geeksforgeeks.org/user/ayishwaryac/)
 - HackerRank : [ayishwaryac](https://www.hackerrank.com/profile/ayishwaryac)
