@@ -3,7 +3,7 @@
 
 ## Full stack web Developer and UI/UX Designer
 
-<img align="right" width="270" height="180" src="https://user-images.githubusercontent.com/63107268/235033377-31b23c1d-04b6-42bf-865a-6b6bda4f77ae.gif">
+<!-- <img align="right" width="270" height="180" src=""> -->
                                               
 - 🌱 I’m currently graduate BTech/IT student
 - 👯 I’m looking to collaborate on Full stack related projects
