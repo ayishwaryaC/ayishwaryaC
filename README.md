@@ -1,52 +1,67 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BE43C4E5&width=435&lines=Hi+there%F0%9F%91%8B%F0%9F%8F%BB;I'm+Ayishwarya.C)](https://git.io/typing-svg)
-<hr>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BE43C4E5&center=true&vCenter=true&width=600&lines=Hi+there+👋🏻;I'm+Ayishwarya+C)](https://git.io/typing-svg)
 
-## Full stack web Developer and UI/UX Designer
+---
 
-<!-- <img align="right" width="270" height="180" src=""> -->
-                                              
-- 🌱 I’m currently graduate BTech/IT student
-- 👯 I’m looking to collaborate on Full stack related projects
-- 💬 Ask me about Tech
-- 📫 How to reach me :
-      <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ayishwaryac/)
+## 👩‍💻 Full Stack Web Developer | UI/UX Designer  
 
+<img align="right" width="260" src="https://your-image-link-here.png"/>
 
-## 💻 I Code With
+- 🌱 B.Tech IT Graduate  
+- 👯 Looking to collaborate on Full Stack Projects  
+- 💬 Ask me about Tech  
+- 📫 Reach me on:  
 
-<span>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/> 
- <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" width="50" height="50"/>  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/> 
-</span>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AyishwaryaC-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayishwaryac/)
 
+---
 
-## 🛠️ Tools & Technologies I Use
+## 💻 Tech Stack
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/> <img src="https://cdn-icons-png.flaticon.com/128/15466/15466168.png" alt="GitHub" width="50" height="50" "/> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/> </p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <img src="https://img.icons8.com/fluency/48/node-js.png" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+</p>
 
+---
 
-## 💻 Coding Profiles
-- LeetCode : [ayishwarya07](https://leetcode.com/u/ayishwarya07/)
-- GeeksForGeeks : [ayishwaryac](https://www.geeksforgeeks.org/user/ayishwaryac/)
-- HackerRank : [ayishwaryac](https://www.hackerrank.com/profile/ayishwaryac)
+## 🛠️ Tools & Technologies
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/15466/15466168.png" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
+</p>
 
-## My LeetCode Badges
-<span>
-  <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt=" SQL-50" width="50" height="50" style="margin-right: 10px;" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge" width="50" height="50" style="margin-right: 10px;" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="100 Days Badge" width="50" height="50" style="margin-right: 10px;" />
-  <img src="https://assets.leetcode.com/static_assets/others/200.gif" alt=" 200 Days Badge" width="50" height="50" style="margin-right: 10px;" />
-</span>
+---
 
+## 🧠 Coding Profiles
 
+- 🔹 LeetCode: https://leetcode.com/u/ayishwarya07/  
+- 🔹 GeeksForGeeks: https://www.geeksforgeeks.org/user/ayishwaryac/  
+- 🔹 HackerRank: https://www.hackerrank.com/profile/ayishwaryac  
 
-<br />[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayishwaryaC&bg_color=d59acd&color=000000&line=5d2f6a&point=1a1919&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
+## 🏆 LeetCode Achievements
 
- 
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" width="60"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="60"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="60"/>
+  <img src="https://assets.leetcode.com/static_assets/others/200.gif" width="60"/>
+</p>
 
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayishwaryaC&bg_color=d59acd&color=000000&line=5d2f6a&point=1a1919&area=true&hide_border=true"/>
+</p>
